@@ -28,13 +28,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-<br> <br>
-
-Este projeto foi desenvolvido para ajudar minha vó a realizar seus tabalhos de trasncrições de áudio e vídeo.
-<br> <br>
-É incrivel como a IA a cada dia faz mais parte de nossas vidas ,e é sensacional usá-las para termos mais produtividade em nossas tarefas diárias !
 
 <br> <br>
+
+Este projeto foi desenvolvido para ajudar minha avó a realizar seus trabalhos de transcrições de áudio e vídeo.
+<br> <br>
+É incrível como a IA a cada dia faz mais parte de nossas vidas ,e é sensacional usá-las para termos mais produtividade em nossas tarefas diárias !
+
+<br> <br>
+
 
 
 ## 🚀 Como executar
