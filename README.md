@@ -1,7 +1,7 @@
 
 <h1 align="center" >
   Project Transcription
-<img src="./src/assets/logo.png"/>
+
 </h1>
 
 
